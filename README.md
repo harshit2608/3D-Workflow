@@ -2,5 +2,5 @@
 Blender model and textures
 
 @BlENDER NEEDED TO USE THESE
-DOWNLOAD LENDER FROM 
+DOWNLOAD BLENDER FROM 
 https://www.blender.org/
